@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangitakeshavan
-- 🌱 I’m interested in climate change analytics & human rights.
+- 🌱 I’m interested in climate change analytics, economics, & human rights.
 - 📫 sangitakeshavan dot climate at gmail dot com.
 
 <!---
